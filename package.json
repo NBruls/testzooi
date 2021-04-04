@@ -1,0 +1,7 @@
+{
+    "dependencies": {
+        "express": "^4.17.1",
+        "express-openid-connect": "auth0/express-openid-connect",
+        "json-server": "^0.16.3"
+    }
+}

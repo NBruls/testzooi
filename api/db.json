@@ -1,0 +1,20 @@
+{
+    "teamleden": {
+        "teamleden": [
+            "Wiktor",
+            "Stijn",
+            "Joy",
+            "Nikki"
+        ]
+    },
+    "gedichtje": {
+        "Haiku": [
+            "Worker bees can leave",
+            "Even drones can fly away",
+            "The queen is their slave"
+        ]
+    },
+    "logout": {
+        "message": "You logged out successfully"
+    }
+}
